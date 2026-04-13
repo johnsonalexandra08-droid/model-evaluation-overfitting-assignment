@@ -21,8 +21,8 @@ This project demonstrates data splitting strategies and overfitting mitigation t
 ## Results
 | Model | Val Accuracy | Test Accuracy |
 |-------|-------------|---------------|
-| Baseline (no regularization) | ~0.90 | ~0.90 |
-| Improved (all techniques) | ~0.92 | ~0.92 |
+| Baseline (no regularization) |~0.9059 | ~0.9043 |
+| Improved (all techniques) | ~0.8652 | ~0.8620 |
 
 *Exact values will appear after running the notebook.*
 
